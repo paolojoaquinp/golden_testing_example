@@ -42,7 +42,7 @@ class HomePage extends StatelessWidget {
               ),
               onPressed: () {},
               child: const Text(
-                "Este es un boton de ejemplo",
+                "Este es un boton de ejemplo #2",
               ),
             ),
           ],
